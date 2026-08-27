@@ -1,0 +1,6 @@
+{
+  "name": "Alex for Diana",
+  "description": "An action runner game and voice-powered conversational companion where Alex speaks with Diana through real-time speech, custom interactive dialogues, and dynamic gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
